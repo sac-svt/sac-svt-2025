@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: SAC-SVT 2024
-description: Symposium on Applied Computing, Software Verification and Testing Track, 2024
-logo: Avila_001.jpg
+title: SAC-SVT 2025
+description: Symposium on Applied Computing, Software Verification and Testing Track, 2025
+logo: catania.jpg
