@@ -43,7 +43,7 @@ Research papers should have at most 8 two-column pages in ACM format (further tw
 The length of a poster is limited to 2 pages (one extra page may be available at a charge). 
 Please comply to this page limit already at submission time.
 
-Furthermore, in the context of the Student Research Competition (SRC) program to provide graduate students the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest, graduate students are invited to submit research abstracts following the instructions published at the SAC 2025 website. 
+Furthermore, in the context of the Student Research Competition (SRC) program to provide graduate students the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest, graduate students are invited to submit research abstracts (single author, maximum of 3 pages in ACM camera-ready format) following the instructions published at the SAC 2025 website. 
 Submission of the same abstract to multiple tracks is not allowed.
 
 Accepted papers will be published in the ACM SAC 2025 proceedings in the ACM digital library. 
@@ -59,9 +59,10 @@ The submission system for regular papers: TBA
 The submission system for SRC (Student Research Competition) abstracts: TBA
 
 ## Important Dates
-Paper and SRC abstract submission: TBD<br>
-Notification:  TBD<br>
-Camera-ready and author registration: TBD
+Paper and SRC abstract submission: 20 September 2024<br>
+Notification:  30 October 2024<br>
+Camera-ready and author registration: 29 November 2024
+Author registration due: 6 December 2024
 
 ## Track Chairs
 
