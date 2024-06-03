@@ -62,7 +62,6 @@ The submission system for SRC (Student Research Competition) abstracts: TBA
 Paper and SRC abstract submission: 20 September 2024<br>
 Notification:  30 October 2024<br>
 Camera-ready and author registration: 29 November 2024
-Author registration due: 6 December 2024
 
 ## Track Chairs
 
