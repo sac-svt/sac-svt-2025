@@ -52,11 +52,11 @@ An author or a proxy attending SAC MUST present the paper.
 This is a requirement for the paper/poster to be included in the ACM digital library. 
 No-show of registered papers and posters will result in excluding them from the ACM digital library.
 
-Author kit with formatting guidelines for all submission types: TBA
+Author kit with formatting guidelines for all submission types: [https://www.sigapp.org/sac/sac2025/authorkit.php](https://www.sigapp.org/sac/sac2025/authorkit.php)
 
-The submission system for regular papers: TBA
+The submission system for regular papers: [https://easychair.org/my/conference?conf=sac-2025](https://easychair.org/my/conference?conf=sac-2025)
 
-The submission system for SRC (Student Research Competition) abstracts: TBA
+The submission system for SRC (Student Research Competition) abstracts: [https://easychair.org/my/conference?conf=sacsrc-2025](https://easychair.org/my/conference?conf=sacsrc-2025)
 
 ## Important Dates
 Paper and SRC abstract submission: 20 September 2024<br>
