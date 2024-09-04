@@ -71,6 +71,8 @@ Author registration: 6 December 2024
 
 ## Program Committee
 
+- Alexander	Weigl, Karlsruhe Institute of Technology
+- Angelo	Gargantini, University of Bergamo
 - Antoine Rollet, LaBRI, Bordeaux INP, University of Bordeaux, CNRS
 - Catherine Dubois, ENSIIE-Samovar
 - Christian Colombo, University of Malta
@@ -104,7 +106,7 @@ Author registration: 6 December 2024
 - Sylvain Hallé, Université du Québec à Chicoutimi
 - Thierry Jéron, INRIA
 - Tom van Dijk, University of Twente
-- Vincenzo Ciancia, Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo", Consiglio Nazionale delle Ricerche, Pisa, ITALY
+- Vincenzo Ciancia, Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo", Consiglio Nazionale delle Ricerche, Pisa, Italy
 - Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
 - Xupeng Li, Columbia University
 
