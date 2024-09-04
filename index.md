@@ -71,7 +71,42 @@ Author registration: 6 December 2024
 
 ## Program Committee
 
-TBD
+- Antoine Rollet, LaBRI, Bordeaux INP, University of Bordeaux, CNRS
+- Catherine Dubois, ENSIIE-Samovar
+- Christian Colombo, University of Malta
+- David Šafránek, Masaryk University
+- Eduard Kamburjan, University of Oslo
+- Ernst Moritz Hahn, University of Twente
+- Ferhat Khendek, Concordia University
+- Frédéric Loulergue, Univ. Orléans, INSA CVL, LIFO EA 4022
+- Georgiana Caltais, University of Twente
+- Gwen Salaün, University of Grenoble Alpes
+- Joao Faria, INESC TEC
+- Julien Signoles, CEA LIST
+- Jun Pang, University of Luxembourg
+- Klaus Havelund, Jet Propulsion Laboratory, California Institute of Technology
+- Mahsa Varshosaz, IT University of Copenhagen
+- Marcello Bonsangue, Leiden University
+- Marcus Gerhold, University of Twente
+- María del Mar Gallardo, University of Málaga
+- Mark Utting, The University of Queensland
+- Martin Leucker, University of Luebeck
+- Matthias Güdemann, UAS Munich
+- Maurizio Leotta, Università di Genova
+- Mercedes Merayo, Universidad Complutense de Madrid
+- Michele Chiari, TU Wien
+- Narges Khakpour, Newcastle University
+- Nikolai Kosmatov, Thales Research & Technology
+- Pascale Le Gall, CentraleSupelec
+- Paula Herber, University of Münster
+- Peter Lammich, University of Twente
+- Peter Ölveczky, University of Oslo
+- Sylvain Hallé, Université du Québec à Chicoutimi
+- Thierry Jéron, INRIA
+- Tom van Dijk, University of Twente
+- Vincenzo Ciancia, Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo", Consiglio Nazionale delle Ricerche, Pisa, ITALY
+- Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
+- Xupeng Li, Columbia University
 
 ## Previous Editions
 
