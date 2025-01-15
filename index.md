@@ -4,6 +4,14 @@ description: Symposium on Applied Computing, Software Verification and Testing T
 ---
 Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
+## Accepted Papers
+
+- "Formal Modeling and Verification of Low-Level AUTOSAR OS Specifications: Towards Portability and Correctness" by 
+Vignesh Manjunath, Tobias Scheipel and Marcel Baunach. 
+- "BiCoq : Bigraphs Formalisation with Coq" by Cécile Marcon, Cyril Allignol, Celia Picard, Blair Archibald, Michele Sevegnani and Xavier Thirioux.
+- "Verifying Timed Properties of Programs in IoT nodes using Parametric Time Petri Nets" by Étienne André, Jean-Luc Béchennec, Sudipta Chattopadhyay, Sébastien Faucou, Didier Lime, Dylan Marinho, Olivier H. Roux and Jun Sun.
+- "Weakest Safe Context Synthesis by Symbolic Game Semantics and Logical Abduction" by Aleksandar S. Dimovski.
+
 ## Call For Papers
 
 The ACM Symposium on Applied Computing (SAC) has gathered scientists from different areas of computing for over thirty years. 
