@@ -2,7 +2,7 @@
 title: SAC-SVT 2025
 description: Symposium on Applied Computing, Software Verification and Testing Track, 2025
 ---
-Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
+Navigation: [Accepted Papers](#accepted-papers), [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
 ## Accepted Papers
 
@@ -67,7 +67,7 @@ The submission system for regular papers: [https://easychair.org/my/conference?c
 The submission system for SRC (Student Research Competition) abstracts: [https://easychair.org/my/conference?conf=sacsrc-2025](https://easychair.org/my/conference?conf=sacsrc-2025)
 
 ## Important Dates
-Paper and SRC abstract submission: ~~20 September~~ ~~4 October~~ 13 October 2024 <br>
+Paper and SRC abstract submission: 13 October 2024 <br>
 Notification:  30 October 2024<br>
 Camera-ready: 13 December 2024<br>
 Author registration: 13 December 2024
